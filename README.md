@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm hkint
+I'm hk, a self-taught passionate devops developer from China.
 
-- 🌱 I’m currently learning golang and typescript.
+- 🌱 I’m currently learning `Golang` and `Next.js`.
 - ⚡ I'm interested in most things about technology and coding.
 - ☁️ Keep going...
 
