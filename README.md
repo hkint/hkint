@@ -9,4 +9,6 @@ I'm hk, a self-taught passionate developer.
 - ⚡ I'm interested in most things about technology and coding.
 - ☁️ Stay hungry & Keep going...
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkint&layout=compact&theme=radical)
+-->
