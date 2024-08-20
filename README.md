@@ -39,5 +39,5 @@
 <h2>⚡️ Find me</h2>
 <p>
   <a target="_blank" href="https://t.me/iokhk" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-  <a target="_blank" href="https://twitter.com/okhkint" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#4285f4" alt="twitter" /></a>
+<!--   <a target="_blank" href="https://twitter.com/okhkint" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#4285f4" alt="twitter" /></a> -->
 </p>
