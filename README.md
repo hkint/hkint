@@ -1,19 +1,28 @@
 ### welcome!
 <h1>Hi 👋 , I'm HK</h1>
+
+<!--
 <p>A self-taught passionate developer</p>
-
-<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&vCenter=true&random=false&width=840&lines=I'm+hk%2C+a+self-taught+passionate+developer+from+China.)](https://git.io/typing-svg)
-
-- 🌱 I’m currently learning `Golang` and `Next.js`.
+- ⚡ I'm interested in most things about technology and coding.
 -->
 
-- ⚡ I'm interested in most things about technology and coding.
-- ☁️ ...
+<p>☁️ 运维背锅侠，后端搬砖工，前端小菜鸟 ☁️</p>
+
+
+<h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
+<!-- feed start -->
+
+<!-- feed end -->
+
+
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkint&layout=compact&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hkint&count_private=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkint&layout=compact&theme=ambient_gradient)
 -->
+
+
 
 <h2>⚡️ Find me</h2>
 <p>
@@ -25,8 +34,9 @@
 </p>
 </p>
 
-<h2>🚀 Tech Stack</h2>
 
+
+<h2>🚀 Tech Stack</h2>
 <p>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /</a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
