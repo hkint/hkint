@@ -13,17 +13,19 @@ jobs:
       items: ${{ steps.feed.outputs.items }}
     steps:
       - uses: actions/checkout@v2
+      
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: 'https://okhk.net/feed'
+          url: 'https://note.okhk.net/feed'
           file: 'README.md'
           timezone: 'Asia/Shanghai'
-          retry: 5
-          retry_backoff: 15
+          retry: 8
+          retry_backoff: 20
+      
       - name: push to master
-        if: steps.feed.outputs.changed == true
         id: commit
+        if: steps.feed.outputs.changed == true
         uses: sarisia/actions-commit@master
         with:
           message: "update feed"        
