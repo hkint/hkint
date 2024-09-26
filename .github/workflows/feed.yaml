@@ -14,14 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - uses: sarisia/actions-readme-feed@v1
+      - uses: sarisia/actions-readme-feed@main
         id: feed
         with:
           url: 'https://note.okhk.net/feed'
           file: 'README.md'
           timezone: 'Asia/Shanghai'
-          retry: 8
-          retry_backoff: 20
+          retry_backoff: 30
+          retry: 5
       
       - name: push to master
         id: commit
