@@ -16,11 +16,11 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: |
-            https://okhk.net/feed
+          url: 'https://okhk.net/feed'
           file: 'README.md'
           timezone: 'Asia/Shanghai'
-          ensure_all: true
+          retry: 5
+          retry_backoff: 15
       - name: push to master
         if: steps.feed.outputs.changed == true
         id: commit
