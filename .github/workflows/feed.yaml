@@ -12,7 +12,7 @@ jobs:
       changed: ${{ steps.feed.outputs.changed }}
       items: ${{ steps.feed.outputs.items }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       
       - uses: sarisia/actions-readme-feed@v1
         id: feed
@@ -20,7 +20,7 @@ jobs:
           url: 'https://note.okhk.net/feed'
           file: 'README.md'
           timezone: 'Asia/Shanghai'
-          retry_backoff: 30
+          retry_backoff: 15
           retry: 10
       
       - name: push to master
