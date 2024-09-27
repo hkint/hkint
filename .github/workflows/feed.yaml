@@ -21,7 +21,7 @@ jobs:
           file: 'README.md'
           timezone: 'Asia/Shanghai'
           retry_backoff: 30
-          retry: 5
+          retry: 10
       
       - name: push to master
         id: commit
