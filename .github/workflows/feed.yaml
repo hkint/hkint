@@ -17,10 +17,10 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: 'https://okhk.net/feed'
+          url: 'https://origin.hktwilight.eu.org/feed'
           file: 'README.md'
           timezone: 'Asia/Shanghai'
-          retry_backoff: 15
+          retry_backoff: 20
           retry: 10
       
       - name: push to master
