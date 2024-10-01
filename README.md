@@ -1,5 +1,5 @@
 ### welcome!
-<h1>Hi 👋 , I'm HK</h1>
+<h1>👋 Hi, I'm HK</h1>
 
 <p>💡 A self-taught developer with a passion for using technology to increase personal efficiency and productivity.</p>
 <!--
