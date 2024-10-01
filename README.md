@@ -12,7 +12,11 @@
 <h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
 
 <!-- feed start -->
-
+- Sep 23 - [PVE 上 Debian 12 虚拟机部署 Kubernetes 1.31 简要记录](https://note.okhk.net/pve-debian-12-vm-deploy-kubernetes-1-31-brief-record)
+- Sep 04 - [Git 多账户配置及按项目路径使用不同 Git 配置](https://note.okhk.net/multiple-git-identities-config)
+- Aug 26 - [OpenWrt 无线中继上级路由时配置 IPv6 地址](https://note.okhk.net/openwrt-wifi-client-relay-mode-config-ipv6-addr)
+- Aug 25 - [小米 AX3000T 路由器使用 hanwckf 版本的 ImmortalWrt 和 U-Boot](https://note.okhk.net/xiaomi-ax3000t-router-with-hanwckf-immortalwrt)
+- Aug 18 - [小米 AX3000T 路由器刷入使用官方原版 OpenWrt / ImmortalWrt 固件](https://note.okhk.net/xiaomi-ax3000t-router-install-openwrt-immortalwrt)
 <!-- feed end -->
 
 
