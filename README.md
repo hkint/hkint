@@ -12,11 +12,11 @@
 <h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
 
 <!-- feed start -->
+- Oct 10 - [Spring Boot 项目 Dockerfile 调整优化备忘 —— Could not find or load main class PropertiesLauncher](https://note.okhk.net/spring-boot-3.2-dockerfile-change)
 - Oct 05 - [Next.js 项目容器化部署 - Dockerfile 示例](https://note.okhk.net/deploy-nextjs-project-in-docker-container)
 - Oct 01 - [【译】How I write HTTP services in Go after 13 years （13年后我如何用 Go 编写 HTTP 服务）](https://note.okhk.net/chinese-translation-how-i-write-http-services-in-go-after-13-years)
 - Sep 23 - [PVE 上 Debian 12 虚拟机部署 Kubernetes 1.31 简要记录](https://note.okhk.net/pve-debian-12-vm-deploy-kubernetes-1-31-brief-record)
 - Sep 04 - [Git 多账户配置及按项目路径使用不同 Git 配置](https://note.okhk.net/multiple-git-identities-config)
-- Aug 26 - [OpenWrt 无线中继上级路由时配置 IPv6 地址](https://note.okhk.net/openwrt-wifi-client-relay-mode-config-ipv6-addr)
 <!-- feed end -->
 
 
