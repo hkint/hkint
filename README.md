@@ -38,15 +38,15 @@
 
 
 ## 🪜 Use
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,arch,ubuntu)](https://i.okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,arch,ubuntu)](https://okhk.net)
 
-[![My Skills](https://skillicons.dev/icons?i=git,nginx,docker,kubernetes,jenkins,terraform)](https://i.okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=git,nginx,docker,kubernetes,jenkins,terraform)](https://okhk.net)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,py,html,js,nextjs,react)](https://i.okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,py,html,js,nextjs,react)](https://okhk.net)
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,vercel,github,gitlab,notion,stackoverflow)](https://i.okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,vercel,github,gitlab,notion,stackoverflow)](https://okhk.net)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,rabbitmq)](https://i.okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,rabbitmq)](https://okhk.net)
 
 
 
