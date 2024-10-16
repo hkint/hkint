@@ -1,7 +1,7 @@
 ### welcome!
-<h1>👋 Hi, I'm HK</h1>
+<h1>👋 Hi there, I'm HK</h1>
 
-<p>💡 A self-taught developer with a passion for using technology to increase personal efficiency and productivity.</p>
+<p>💡 A self-taught developer passionate about leveraging technology to boost personal efficiency and productivity.</p>
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&vCenter=true&random=false&width=840&lines=I'm+hk%2C+a+self-taught+passionate+developer+from+China.)](https://git.io/typing-svg)
 - ⚡ I'm interested in most things about technology and coding.
