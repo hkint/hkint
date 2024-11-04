@@ -12,11 +12,11 @@
 <h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
 
 <!-- feed start -->
+- Oct 31 - [UFW 防火墙配置端口转发实现 Hysteria 2 端口跳跃](https://okhk.net/how-to-configure-ufw-port-forwarding-for-hysteria2-port-hopping)
 - Oct 10 - [Spring Boot 项目 Dockerfile 调整优化备忘 —— Could not find or load main class PropertiesLauncher](https://okhk.net/spring-boot-3.2-dockerfile-change)
 - Oct 05 - [服务器容器化部署 Next.js 应用的 Dockerfile 示例](https://okhk.net/self-host-nextjs-app-in-docker-container)
 - Oct 01 - [[AI 翻译] How I write HTTP services in Go after 13 years ](https://okhk.net/chinese-translation-how-i-write-http-services-in-go-after-13-years)
 - Sep 23 - [PVE 上 Debian 12 虚拟机部署 Kubernetes 1.31 简要记录](https://okhk.net/pve-debian-12-vm-deploy-kubernetes-1-31-brief-record)
-- Sep 04 - [Git 多账户配置及按项目路径使用不同 Git 配置](https://okhk.net/multiple-git-identities-config)
 <!-- feed end -->
 
 
