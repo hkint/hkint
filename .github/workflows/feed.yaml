@@ -17,7 +17,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: 'https://origin.hktwilight.eu.org/feed'
+          url: 'https://okhk.net/feed'
           file: 'README.md'
           timezone: 'Asia/Shanghai'
           retry_backoff: 20
