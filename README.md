@@ -12,11 +12,11 @@
 <h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
 
 <!-- feed start -->
+- Feb 21 - [自部署 Blinko AI 笔记工具并配置 Cloudflare R2 对象存储](https://okhk.net/self-host-blinko-and-config-cloudflare-r2)
 - Nov 12 - [macOS 上 配置 Launchctl 运行 Clash Meta（Mihomo）内核服务](https://okhk.net/use-launchctl-to-start-clash-meta-kernel-on-macos)
 - Oct 31 - [UFW 防火墙配置端口转发实现 Hysteria 2 端口跳跃](https://okhk.net/how-to-configure-ufw-port-forwarding-for-hysteria2-port-hopping)
 - Oct 10 - [Spring Boot 项目 Dockerfile 调整优化备忘 —— Could not find or load main class PropertiesLauncher](https://okhk.net/spring-boot-3.2-dockerfile-change)
 - Oct 05 - [服务器容器化部署 Next.js 应用的 Dockerfile 示例](https://okhk.net/self-host-nextjs-app-in-docker-container)
-- Oct 01 - [[AI 翻译] How I write HTTP services in Go after 13 years ](https://okhk.net/chinese-translation-how-i-write-http-services-in-go-after-13-years)
 <!-- feed end -->
 
 
