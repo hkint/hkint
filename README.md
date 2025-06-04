@@ -13,7 +13,7 @@
 
 <!-- feed start -->
 - May 30 - [一些教育优惠（Edu 邮箱）的服务/工具整理](https://okhk.net/some-free-student-edu-services)
-- May 02 - [一些 MCP Server 信息整理站点/仓库](https://okhk.net/mcp-server-source-site)
+- May 02 - [MCP Server 信息整理站点/仓库](https://okhk.net/mcp-server-source-site)
 - Apr 19 - [使用 Claw Cloud Run 平台免费容器，需要 GitHub 账户](https://okhk.net/claw-cloud-run-free-docker-devbox)
 - Feb 21 - [自部署 Blinko AI 笔记工具并配置 Cloudflare R2 对象存储](https://okhk.net/self-host-blinko-and-config-cloudflare-r2)
 - Dec 22 - [使用 nftables 配置 Web 服务器仅允许 Cloudflare IP 访问](https://okhk.net/nftables-restrict-web-server-cloudflare-ips)
