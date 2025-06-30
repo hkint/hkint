@@ -12,11 +12,11 @@
 <h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
 
 <!-- feed start -->
+- Jun 25 - [Golang 编写简单的 AI Agent Demo](https://okhk.net/simple-ai-agent-demo-in-golang)
 - Jun 10 - [使用 SquashFS 来代替传统的 tar 打包归档](https://okhk.net/replace-tar-with-squashfs-for-archiving)
 - May 30 - [一些教育优惠（Edu 邮箱）的服务/工具整理](https://okhk.net/some-free-student-edu-services)
 - May 02 - [MCP Server 信息整理站点/仓库](https://okhk.net/mcp-server-source-site)
 - Apr 19 - [使用 Claw Cloud Run 平台免费容器，需要 GitHub 账户](https://okhk.net/claw-cloud-run-free-docker-devbox)
-- Feb 21 - [自部署 Blinko AI 笔记工具并配置 Cloudflare R2 对象存储](https://okhk.net/self-host-blinko-and-config-cloudflare-r2)
 <!-- feed end -->
 
 
