@@ -9,7 +9,7 @@
 -->
 
 
-<h2>✨ Latest Posts on <a href="https://okhk.net/" target="_blank">HK's note</a></h2>
+<h2><a href="https://okhk.net/" target="_blank">✨ Latest Posts</a></h2>
 
 <!-- feed start -->
 - Jun 25 - [Golang 编写简单的 AI Agent Demo](https://okhk.net/simple-ai-agent-demo-in-golang)
@@ -44,9 +44,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,go,py,html,js,nextjs,react)](https://okhk.net)
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,vercel,github,gitlab,notion,stackoverflow)](https://okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,vercel,github,gitlab,notion)](https://okhk.net)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,rabbitmq)](https://okhk.net)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite)](https://okhk.net)
 
 
 
