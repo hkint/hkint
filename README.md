@@ -31,7 +31,7 @@
 ## ⚡ Connect
 <p>
   <a target="_blank" href="https://okhk.net/" style="display: inline-block;"><img src="https://img.shields.io/badge/HK-Note?style=for-the-badge&logo=notion&color=%234285f4" alt="okhk" /></a>
-  <a target="_blank" href="https://tg.okhk.net/" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+  <a target="_blank" href="https://t.me/iokhk" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 <!--   <a target="_blank" href="https://twitter.com/okhkint" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#4285f4" alt="twitter" /></a> -->    
 </p>
 
