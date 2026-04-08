@@ -12,11 +12,11 @@
 <h2><a href="https://okhk.net/" target="_blank">✨ Latest Posts</a></h2>
 
 <!-- feed start -->
+- Feb 10 - [使用 Cloudflare Tunnel 和 Traefik 访问部署的 Docker 服务](https://okhk.net/self-hosted-service-with-traefik-and-cloudflare-tunnel)
+- Dec 22 - [香港汇丰银行红狮子提款卡电话人工客服激活 | TERR_30004 报错](https://okhk.net/activate-hsbc-hk-card-by-call-human-service)
+- Nov 11 - [开源 AI/LLM API 聚合项目](https://okhk.net/awesome-ai-llm-api-open-source-project)
 - Aug 10 - [Debian 12 升级 Debian 13 简单记录](https://okhk.net/upgrade-debian-12-to-13-note)
 - Jul 13 - [VSCode 的 Dev Container 配置 Docker 容器中运行 Claude Code](https://okhk.net/claude-code-in-docker-by-vscode-devcontainer)
-- Jun 25 - [Golang 编写简单的 AI Agent Demo](https://okhk.net/simple-ai-agent-demo-in-golang)
-- Jun 10 - [使用 SquashFS 来代替传统的 tar 打包归档](https://okhk.net/replace-tar-with-squashfs-for-archiving)
-- May 30 - [一些教育优惠（Edu 邮箱）的服务/工具整理](https://okhk.net/some-free-student-edu-services)
 <!-- feed end -->
 
 
