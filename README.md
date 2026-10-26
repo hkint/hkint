@@ -8,7 +8,7 @@
 -->
 
 
-<h2><a href="https://okhk.net/" target="_blank">✨ Latest Posts</a></h2>
+<h2><a href="https://note.okhk.net/" target="_blank">✨ Latest Posts</a></h2>
 
 <!-- feed start -->
 - Sep 25 - [K3s 配置 Envoy Gateway：结合 Cloudflare Tunnel 与 Tailscale 实现内外网服务隔离](https://note.okhk.net/k3s-envoy-gateway-cloudflare-tunnel-and-tailscale)
